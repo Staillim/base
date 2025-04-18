@@ -1,1 +1,18 @@
-[{"NOMBRE":"El dictador","AÑO":2012,"GENERO":" Comedia\/Drama","DURACION":"1h 23m","LINK":"https:\/\/terabox.com\/s\/1R6bKJMPtDY5bIVUl1Pe9eg"},{"NOMBRE":"Terrifier 3","AÑO":2024,"GENERO":"Terror\/Crimen","DURACION":"2h 5m","LINK":"https:\/\/terabox.com\/s\/1-2ee_PCbv-oaZk_PwZGKFQ"}]
+[
+ {
+  "NOMBRE": "El dictador",
+  "IMG": "https:\/\/m.media-amazon.com\/images\/S\/pv-target-images\/95df6af83a949c53078666663510af758a2423e5567f275a3dbd63f166a9ae16.jpg",
+  "GENERO": " Comedia\/Drama",
+  "DURACION": "1h 23m",
+  "LINK": "https:\/\/terabox.com\/s\/1R6bKJMPtDY5bIVUl1Pe9eg",
+  "AÑO": 2012
+ },
+ {
+  "NOMBRE": "Terrifier 3",
+  "IMG": "https:\/\/pics.filmaffinity.com\/Terrifier_3-141451507-large.jpg",
+  "GENERO": "Terror\/Crimen",
+  "DURACION": "2h 5m",
+  "LINK": "https:\/\/terabox.com\/s\/1-2ee_PCbv-oaZk_PwZGKFQ",
+  "AÑO": 2024
+ }
+]
